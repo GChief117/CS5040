@@ -1,0 +1,10 @@
+insert name1 1 0 2 4
+insert name2 1 0 2 4
+insert name1 4 6 2 2
+insert name3 1 2 1023 4
+insert name3 0 0 12 4
+remove 1 0 2 4
+remove 0 0 12 4
+remove -1 3 23 454
+remove 1 2 3 4
+dump

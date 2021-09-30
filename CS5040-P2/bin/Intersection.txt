@@ -1,0 +1,9 @@
+dump
+insert a 1 1 2 2
+insert b 2 2 2 2
+insert c 5 5 4 4
+insert d 7 5 4 4 
+insert e 5 7 6 6
+insert f 1 1 2 2
+dump
+intersections

@@ -1,0 +1,7 @@
+dump
+insert a 1 1 1 1 
+insert b 2 2 2 2
+insert c 4 1 4 4
+dump
+regionsearch 1 1 4 1
+dump
